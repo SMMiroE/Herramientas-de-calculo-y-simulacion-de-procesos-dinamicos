@@ -30,6 +30,6 @@ Correspondiente a la **Actividad 2 del Trabajo Práctico 1**:
 
 - ### 📘 Sim_TP1_Act3.ipynb
 Correspondiente a la **Actividad 3 del Trabajo Práctico 1**:
-- Simulación de un circuito RLC serie con valores R= 2,2 kohm, L= 10 microHy, y C= 100 nanoF, aplicando la solucion analitica 
+- Simulación de un circuito RLC serie con valores R= 2,2 kohm, L= 10 microHy, y C= 100 nanoF, aplicando el metodo numerico de Euler directo 
 - Entrada: escalón de 12 V que cambia de signo cada 1ms.
 - Se presenta la corriente y la tensión en el capacitor.
