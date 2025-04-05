@@ -22,4 +22,8 @@ Correspondiente a la **Actividad 1b del Trabajo Práctico 1**:
 - Entrada: escalón unitario de 12 V.
 - Se presenta la comparacion de la corriente y la tensión en el capacitor.
 
-
+### 📘 Sim_TP1_Act2.ipynb
+Correspondiente a la **Actividad 2 del Trabajo Práctico 1**:
+- Simulación de un circuito RLC serie con valores R= 2,2 kohm, L= 10 microHy, y C= 100 nanoF, aplicando la solucion analitica 
+- Entrada: escalón unitario de 12 V.
+- Se presenta la corriente y la tensión en el capacitor.
