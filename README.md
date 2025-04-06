@@ -34,7 +34,7 @@ Correspondiente a la **Actividad 3 del Trabajo Práctico 1**:
 - Entrada: escalón de 12 V que cambia de signo cada 1ms.
 - Se presenta la corriente, la tensión en el capacitor y la entrada de 12 V
 
-- ### 📘 Sim_TP1_Act3.ipynb
+- ### 📘 Sim_TP2_Act2.ipynb
 Correspondiente a la **Actividad 2 del Trabajo Práctico 2**:
 - Simulación de un modelo de sistema de altitud en un avión, aplicando el metodo numerico de Euler directo 
 - Se simula la evolución de los estados del sistema usando el método de Euler hacia adelante. Se grafican:
