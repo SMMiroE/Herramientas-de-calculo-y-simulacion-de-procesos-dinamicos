@@ -33,3 +33,12 @@ Correspondiente a la **Actividad 3 del Trabajo Práctico 1**:
 - Simulación de un circuito RLC serie con valores R= 2,2 kohm, L= 10 microHy, y C= 100 nanoF, aplicando el metodo numerico de Euler directo 
 - Entrada: escalón de 12 V que cambia de signo cada 1ms.
 - Se presenta la corriente, la tensión en el capacitor y la entrada de 12 V
+
+- ### 📘 Sim_TP1_Act3.ipynb
+Correspondiente a la **Actividad 2 del Trabajo Práctico 2**:
+- Simulación de un modelo de sistema de altitud en un avión, aplicando el metodo numerico de Euler directo 
+- Se simula la evolución de los estados del sistema usando el método de Euler hacia adelante. Se grafican:
+Ángulo de trayectoria \( \alpha(t) \)
+Ángulo de cabeceo \( \varphi(t) \)
+Velocidad angular \( \dot{\varphi}(t) \)
+Altura \( h(t) \)
