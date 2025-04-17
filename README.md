@@ -1,7 +1,7 @@
 # Herramientas de cálculo y simulación de procesos dinámicos
 
 Este repositorio contiene actividades prácticas del curso Herramientas de cálculo y simulación de procesos dinámicos – UNC
-
+La Carpeta "Modulo 1 - Semana 1" contiene
 ### 📘 SMMIRO_TP1_Act1.ipynb
 Correspondiente a la **Actividad 1 del Trabajo Práctico 1**:
 - Simulación analítica de un circuito RLC serie con valores unitarios de R, L y C.
@@ -22,8 +22,9 @@ Correspondiente a la **Actividad 3 del Trabajo Práctico 1**:
 - Entrada: escalón de 12 V que cambia de signo cada 1ms.
 - Se presenta la corriente, la tensión en el capacitor y la entrada de 12 V
 
+La Carpeta "Modulo 1 - Semana 2" contiene
 - ### 📘 Sim_TP2_Act2.ipynb
-Correspondiente a la **Actividad 2 del Trabajo Práctico 2**:
+Correspondiente a la **Actividad 1 del Trabajo Práctico 2**:
 - Simulación de un modelo de sistema de altitud en un avión, aplicando el metodo numerico de Euler directo 
 - Se simula la evolución de los estados del sistema usando el método de Euler hacia adelante. Se grafican:
 Ángulo de trayectoria \( \alpha(t) \)
