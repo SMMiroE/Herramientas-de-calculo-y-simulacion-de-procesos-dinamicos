@@ -1,5 +1,6 @@
 Archivos correspondientes al Modulo 1- Semana 1:
 SMMIRO_TP1_Act1.ipynb
+
 Correspondiente a la Actividad 1 del Trabajo Práctico 1:
 
 Simulación analítica de un circuito RLC serie con valores unitarios de R, L y C.
