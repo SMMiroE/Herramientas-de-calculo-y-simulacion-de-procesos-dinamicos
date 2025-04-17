@@ -14,7 +14,7 @@ Correspondiente a la **Actividad 1a del Trabajo Práctico 1**:
 Correspondiente a la **Actividad 1b del Trabajo Práctico 1**:
 - Simulación de un circuito RLC serie con valores unitarios de R, L y C, aplicando el metodo numerico de Euler directo
 - Entrada: escalón de 12 V.
-- Se presenta la solución de la corriente y la tensión en el capacitor.
+- Se presenta la simulacion de la corriente y la tensión en el capacitor.
 
 ### 📘 Sim_TP1_Act1c.ipynb
 Correspondiente a la **Actividad 1b del Trabajo Práctico 1**:
