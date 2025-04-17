@@ -1,26 +1,14 @@
 # Herramientas de cálculo y simulación de procesos dinámicos
 
-Este repositorio contiene actividades prácticas del curso Herramientas de cálculo y simulación de procesos dinámicos – UNRC
+Este repositorio contiene actividades prácticas del curso Herramientas de cálculo y simulación de procesos dinámicos – UNC
 
-## Contenido
-
-### 📘 Sim_TP1_Act1a.ipynb
-Correspondiente a la **Actividad 1a del Trabajo Práctico 1**:
+### 📘 SMMIRO_TP1_Act1.ipynb
+Correspondiente a la **Actividad 1 del Trabajo Práctico 1**:
 - Simulación analítica de un circuito RLC serie con valores unitarios de R, L y C.
 - Entrada: escalón unitario de 12 V.
 - Se presenta la solución analítica de la corriente y la tensión en el capacitor.
-  
-### 📘 Sim_TP1_Act1b.ipynb
-Correspondiente a la **Actividad 1b del Trabajo Práctico 1**:
-- Simulación de un circuito RLC serie con valores unitarios de R, L y C, aplicando el metodo numerico de Euler directo
-- Entrada: escalón de 12 V.
 - Se presenta la simulacion de la corriente y la tensión en el capacitor.
-
-### 📘 Sim_TP1_Act1c.ipynb
-Correspondiente a la **Actividad 1b del Trabajo Práctico 1**:
-- Comparacion entre la simulación de un circuito RLC serie con valores unitarios de R, L y C, aplicando la solucion analitica y aplicando el metodo numerico de Euler directo
-- Entrada: escalón de 12 V.
-- Se presenta la comparacion de la corriente y la tensión en el capacitor.
+Observacion: Sim_Tp1_Act1a.ipynb, Sim_Tp1_Act1b.ipynb y Sim_Tp1_Act1c.ipynb se encuentran integrados en el presente archivo
 
 ### 📘 Sim_TP1_Act2.ipynb
 Correspondiente a la **Actividad 2 del Trabajo Práctico 1**:
