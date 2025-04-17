@@ -1,4 +1,4 @@
-Archivos correspondientes al Modulo 1- Semana 1
+Archivos correspondientes al Modulo 1- Semana 1:
 SMMIRO_TP1_Act1.ipynb
 Correspondiente a la Actividad 1 del Trabajo Práctico 1:
 
