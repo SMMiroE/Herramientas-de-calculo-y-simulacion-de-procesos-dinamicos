@@ -8,7 +8,7 @@ Entrada: escalón unitario de 12 V.
 Se presenta la solución analítica de la corriente y la tensión en el capacitor.
 Se presenta la simulacion de la corriente y la tensión en el capacitor. 
 
-Observacion: Sim_Tp1_Act1a.ipynb, Sim_Tp1_Act1b.ipynb y Sim_Tp1_Act1c.ipynb se encuentran integrados en el presente archivo
+Observacion: Sim_Tp1_Act1a.ipynb, Sim_Tp1_Act1b.ipynb y Sim_Tp1_Act1c.ipynb alojados en el Main se encuentran integrados en el presente archivo
 
 
 Sim_TP1_Act2.ipynb
